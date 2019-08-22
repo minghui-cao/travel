@@ -1,0 +1,90 @@
+{
+    "status": "200",
+    "data": {
+        "hotlist": [
+            {
+                "id": 1,
+                "imgUrl": "https://s.qunarzz.com/package_mobile/home-activity/freetrip-190212.png"
+            },
+            {
+                "id": 2,
+                "imgUrl": "https://s.qunarzz.com/package_mobile/home-activity/withGroup-190212.png"
+            },
+            {
+                "id": 3,
+                "imgUrl": "https://s.qunarzz.com/package_mobile/home-activity/cruise-190212.png"
+            },
+            {
+                "id": 4,
+                "imgUrl": "https://s.qunarzz.com/package_mobile/home-activity/group-190212.png"
+            }
+        ],
+        "swiperList": [
+            {
+                "id": 1,
+                "UrlImg": "//source.qunarzz.com/site/images/wns/20190723_qunar_dujia_750x192_3.jpg"
+            },
+            {
+                "id": 2,
+                "UrlImg": "//source.qunarzz.com/site/images/wns/20190730_dujia_homepage_750x192_2.jpg"
+            },
+            {
+                "id": 3,
+                "UrlImg": "//source.qunarzz.com/site/images/wns/20190722_dujia_homepage_750x192_1.jpg"
+            }
+        ],
+        "Titlelist": [
+            {
+                "id": 1,
+                "title": "尾单特惠"
+            },
+            {
+                "id": 2,
+                "title": "低价预售"
+            },
+            {
+                "id": 3,
+                "title": "超值自由行"
+            }
+        ],
+        "Traullist": [
+            {
+                "id": 1,
+                "URLimg": "https://imgs.qunarzz.com/vs_ceph_vs_tts/e03f1a62-8bc7-4b1c-bf02-1d9bc06cb369.jpg_r_240x160x90_f1130680.jpg",
+                "title": "行摄新疆✔0购物0自费✔南北疆大环线一网打尽✔一价全含✔深度纯玩双飞12日游",
+                "price": 2280
+            },
+            {
+                "id": 2,
+                "URLimg": "https://imgs.qunarzz.com/p/tts1/1803/ca/56b43ed50b651702.jpg_r_240x160x90_0d76ff47.jpg",
+                "title": "暑期钜惠🔥深度大环线8日☞魅力青海+天镜茶卡+仙境翡翠湖丨莫高窟+七彩丹霞",
+                "price": 2018
+            },
+            {
+                "id": 3,
+                "URLimg": "https://imgs.qunarzz.com/p/tts0/1810/bc/74ff4e726c1fb02.jpg_r_240x160x90_877c0167.jpg",
+                "title": "超值热卖-武汉-迪拜6-8天&四/五星酒店&游艇出海+送冲沙/豪车游迪拜",
+                "price": 880
+            },
+            {
+                "id": 4,
+                "URLimg": "https://imgs.qunarzz.com/vc/35/77/90/762f2c982ae81b1481ea474b38.png_92.png",
+                "title": "武汉直飞日本6天の｜东京1日自由行｜A级酒店+温泉｜东京大阪京都畅游｜0自费",
+                "price": 1119
+            },
+            {
+                "id": 5,
+                "URLimg": "https://imgs.qunarzz.com/vs_ceph_vs_tts/e03f1a62-8bc7-4b1c-bf02-1d9bc06cb369.jpg_r_240x160x90_f1130680.jpg",
+                "title": "行摄新疆✔0购物0自费✔南北疆大环线一网打尽✔一价全含✔深度纯玩双飞12日游",
+                "price": 6720
+            },
+            {
+                "id": 6,
+                "URLimg": "https://imgs.qunarzz.com/p/tts1/1803/ca/56b43ed50b651702.jpg_r_240x160x90_0d76ff47.jpg",
+                "title": "暑期钜惠🔥深度大环线8日☞魅力青海+天镜茶卡+仙境翡翠湖丨莫高窟+七彩丹霞",
+                "price": 4600
+            }
+            
+        ]
+    }
+}
