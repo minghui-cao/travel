@@ -12,7 +12,7 @@
     "better-scroll": "^1.15.2",
     "core-js": "^2.6.5",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fastclick": "^1.0.6",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
